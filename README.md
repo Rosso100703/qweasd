@@ -1,3 +1,3 @@
 # qweasd
-/.hello wor ld                         123   
+/.hello wor 123   
 GOOGLE
